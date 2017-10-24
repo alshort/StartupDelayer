@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F74EECE0-D17D-403C-92F1-71DC532209F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.StartupDelayer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StartupDelayer\App.config">
+    <Files>
+      <File FileName="StartupDelayer\StartupManager.cs" Line="44" Column="1" />
+      <File FileName="StartupDelayer\App.config" Line="7" Column="49" />
+      <File FileName="StartupDelayer\Program.cs" Line="45" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
